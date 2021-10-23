@@ -1,6 +1,6 @@
-# Frontend code template in React
+# Borodutch code templates
 
-This template is to be used for frontend applications.
+List of Borodutch code templates available at [templates.borodutch.com](https://templates.borodutch.com).
 
 ## Local launch
 
@@ -11,3 +11,7 @@ This template is to be used for frontend applications.
 
 - `yarn start` — runs the app in the development mode
 - `yarn build` — builds the app for production to the `docs` folder
+
+## CI
+
+Code from `docs` folder of the `main` branch get deployed to [templates.borodutch.com](https://templates.borodutch.com).
