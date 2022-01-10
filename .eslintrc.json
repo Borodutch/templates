@@ -14,15 +14,19 @@
     "react-hooks",
     "@typescript-eslint",
     "prettier",
-    "sort-imports-es6-autofix"
+    "sort-imports-es6-autofix",
+    "import",
+    "no-relative-import-paths"
   ],
   "extends": [
     "eslint:recommended",
     "plugin:react/jsx-runtime",
     "plugin:@typescript-eslint/recommended",
-    "plugin:prettier/recommended"
+    "plugin:prettier/recommended",
+    "plugin:valtio/recommended"
   ],
   "rules": {
+    "no-relative-import-paths/no-relative-import-paths": "error",
     "@typescript-eslint/no-floating-promises": "error",
     "require-await": "error",
     "react-hooks/exhaustive-deps": "error",
@@ -45,6 +49,7 @@
         "ignoreMemberSort": false,
         "memberSyntaxSortOrder": ["none", "all", "multiple", "single"]
       }
-    ]
+    ],
+    "import/prefer-default-export": "error"
   }
 }
