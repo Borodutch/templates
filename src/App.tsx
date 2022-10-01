@@ -35,6 +35,11 @@ export default function () {
         </Link>
       </Text>
       <Text>
+        <Link url="https://github.com/backmeupplz/zk-starter">
+          Zero-Knowledge with circom starter
+        </Link>
+      </Text>
+      <Text>
         I try to keep them as updated as I can. However, if you have any
         questions or concerns, feel free to reach out to me on{' '}
         <Link url="https://t.me/borodutch">Telegram</Link>.
