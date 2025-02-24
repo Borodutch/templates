@@ -30,7 +30,7 @@ export default function () {
         </Link>
       </Text>
       <Text>
-        <Link url="https://github.com/Borodutch/telegram-bot-starter">
+        <Link url="https://github.com/BigWhaleLabs/telegram-bot-starter">
           Telegram bot starter
         </Link>
       </Text>
