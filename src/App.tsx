@@ -20,6 +20,16 @@ export default function () {
         </Link>
       </Text>
       <Text>
+        <Link url="https://github.com/Borodutch/gql-frontend-starter">
+          GraphQL frontend starter
+        </Link>
+      </Text>
+      <Text>
+        <Link url="https://github.com/BigWhaleLabs/gql-backend-starter">
+          GraphQL backend starter
+        </Link>
+      </Text>
+      <Text>
         <Link url="https://github.com/Borodutch/telegram-bot-starter">
           Telegram bot starter
         </Link>
