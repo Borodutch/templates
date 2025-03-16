@@ -20,7 +20,7 @@ export default function () {
         </Link>
       </Text>
       <Text>
-        <Link url="https://github.com/Borodutch/gql-frontend-starter">
+        <Link url="https://github.com/BigWhaleLabs/gql-frontend-starter">
           GraphQL frontend starter
         </Link>
       </Text>
